@@ -81,3 +81,42 @@ footer {
     color: #ffffff;
     margin-top: 20px;
 }
+
+/* Header */
+header nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    background-color: #35424a;
+}
+
+header nav ul li {
+    margin: 0 15px;
+}
+
+header nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px 20px;
+    display: block;
+}
+
+/* Main Sections */
+main h1 {
+    text-align: center;
+    margin-top: 20px;
+    color: #333;
+}
+
+main section {
+    padding: 20px;
+    margin: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #35424a;
+    color: #ffffff;
+    margin-top: 20px;
+}
